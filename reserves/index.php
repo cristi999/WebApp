@@ -1,5 +1,7 @@
 <!-- VIEW RESERVES PAGE [reserves/index.php]
    - Displays a table containing a list of all the reserves and information about them
+   - Database Table Name: reserves
+   - Database Table Column Names: 
         | rsv_id | rsv_name | rsv_loc | rsv_desc |
    - Reserves will probably be displayed in alphabetical order [A-Z]
    - Must include an option to add (create) a new reserve
