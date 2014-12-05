@@ -10,7 +10,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Group Projext</title>
+    <title>Group Project</title>
     <link rel="stylesheet" type="text/css" href="../include/css/style.css">
 </head>
 <body>
