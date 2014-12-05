@@ -1,6 +1,8 @@
 <!-- VIEW RECORDINGS PAGE [records/index.php]
    - Displays a table containing all of the recordings stored in the database.
-   | rec_id | rec_session_id | users_name | users_phone | users_email | time | species | location | abundance | add_info | scene_photo | specimen_photo |
+   - Database Table Name: recordings
+   - Database Table Column Names:
+     | rec_id | rec_session_id | users_name | users_phone | users_email | time | species | location | abundance | add_info | scene_photo | specimen_photo |
    - Recordings must be displaced in alphabetical order of latin name
    - Must include a drop down menu to select a reserve, table will then only contain recordings from the specified reserve
    - Must include an option to sort by date (Oldest - Newest & Newest - Oldest)
