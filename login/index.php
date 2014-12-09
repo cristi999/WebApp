@@ -12,7 +12,7 @@
 <?php require_once("../include/header.php"); ?>
 
     <section>
-        <form>
+        <form action = "validation.php" Method = "post">
             Login ID:
             <p>
             <input type="text" name="login">
